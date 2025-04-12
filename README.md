@@ -13,6 +13,16 @@ Run:
 
 The rest of the commands are run on terminal or mininet CLI. Please refer to screenshots provided in report to execute the same. 
 
+### Question 2
+
+Run: 
+```
+ sudo python3 q2.py
+```
+
+The rest of the commands are run on terminal or mininet CLI. Please refer to screenshots provided in report to execute the same. 
+
+
 
 ### Question 3
 
