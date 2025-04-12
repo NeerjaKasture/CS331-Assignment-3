@@ -4,6 +4,16 @@ This is our submission for assignment 3 of CS331 Computer Networks course.
 
 ## Instructions to run the code
 
+### Question 1
+
+Run: 
+```
+ sudo python3 q1.py
+```
+
+The rest of the commands are run on terminal or mininet CLI. Please refer to screenshots provided in report to execute the same. 
+
+
 ### Question 3
 
 Compile:
